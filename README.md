@@ -1,5 +1,5 @@
 # API-Eunômia
-📌# Mapeamento do Ecossistema Industrial e de Serviços - Região de SJC
+# Mapeamento do Ecossistema Industrial e de Serviços - Região de SJC
 
 ## 🎯 Objetivo do Projeto
 Desenvolvimento de uma solução integrada (API + Banco de Dados + Dashboard) para leitura, organização e interpretação de dados econômicos e industriais da região de São José dos Campos, com foco na análise e entendimento da cadeia de suprimentos local.
