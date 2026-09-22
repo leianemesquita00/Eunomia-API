@@ -1,11 +1,6 @@
-# Aprendizado por Projeto Integrado (API) - Template
-
-Template para os projetos de API, ensinando na utilização do repositório digital "GitHub".
-
+# Aprendizado por Projeto Integrado (API) 
 Projeto baseado na metodologia ágil **SCRUM**, procurando desenvolver a **Proatividade, Autonomia, Colaboração e Entrega de Resultados** dos estudantes envolvidos.
-
 ---
-
 ## 📌 Índice
 * [Projeto (API)](#-projeto-api)
 * [Equipe](#-equipe)
@@ -16,7 +11,7 @@ Projeto baseado na metodologia ágil **SCRUM**, procurando desenvolver a **Proat
 * [Registro das Sprints](#-registro-das-sprints)
 ---
 
-## 🎯 # projeto-api
+## 🎯 projeto-api
 Desenvolver uma solução de dados para o **Mapeamento do Ecossistema Industrial e de Serviços da Região de São José dos Campos**, permitindo a leitura, organização e interpretação de indicadores econômicos para análise de cadeias de suprimentos e apoio à tomada de decisão.
 
 ---
