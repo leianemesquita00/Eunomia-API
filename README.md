@@ -1,12 +1,22 @@
-# Aprendizado por Projeto Integrado (API) - Fatec SJC
+# Aprendizado por Projeto Integrado (API) - Template
 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil (SCRUM). 
+Template para os projetos de API, ensinando na utilização do repositório digital "GitHub".
 
-O projeto adota a estratégia **CDIO** (Conceber, Desenhar, Implementar e Operar) para entender o cenário econômico atual e propor uma solução viável através de um MVP.
+Projeto baseado na metodologia ágil **SCRUM**, procurando desenvolver a **Proatividade, Autonomia, Colaboração e Entrega de Resultados** dos estudantes envolvidos.
 
 ---
 
-## 🎯 Objetivo do Projeto
+## 📌 Índice
+* [Projeto (API)](#-projeto-api)
+* [Equipe](#-equipe)
+* [Objetivo do Projeto](#-objetivo-do-projeto)
+* [Tecnologias Utilizadas](#%EF%B8%8F-tecnologias-utilizadas)
+* [Competências Desenvolvidas](#-compet%C3%AAncias-desenvolvidas)
+* [Backlog do Produto](#-backlog-do-produto)
+* [Registro das Sprints](#-registro-das-sprints)
+---
+
+## 🎯 # projeto-api
 Desenvolver uma solução de dados para o **Mapeamento do Ecossistema Industrial e de Serviços da Região de São José dos Campos**, permitindo a leitura, organização e interpretação de indicadores econômicos para análise de cadeias de suprimentos e apoio à tomada de decisão.
 
 ---
@@ -22,13 +32,18 @@ Desenvolver uma solução de dados para o **Mapeamento do Ecossistema Industrial
 | **Team Member** |  ROSANGELA ANTUNES BANDEIRA  | [![LinkedIn](https://shields.io)](https://linkedin.com) [![GitHub](https://shields.io)](https://github.com) |
 
 ---
+## 🎯 Objetivo do Projeto
+Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
+* **Centralizar** os trabalhos e projetos;
+* **Organizar e estruturar** as informações;
+* **Versionar e controlar** as alterações;
+* **Facilitar** o compartilhamento e feedback;
+* **Desenvolver** habilidades técnicas.
 
 ## 🛠️ Tecnologias Utilizadas
 *   **Python (Google Colab):** Pensamento computacional para extração e tratamento dos dados econômicos.
-*   **MySQL:** Armazenamento, estruturação e modelagem da base de dados industriais.
 *   **Power BI & Excel:** Análise visual, criação de dashboards e relatórios gerenciais estruturados.
-*   **Jira Software & Slack:** Planejamento ágil (Scrum), acompanhamento de tarefas e comunicação interna.
-
+*   **Github e Office:** repositório de código e  criação de relatórios
 ---
 
 ## 🧠 Competências Desenvolvidas
