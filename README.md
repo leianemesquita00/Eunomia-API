@@ -6,7 +6,7 @@ Desenvolvimento de uma solução integrada (API + Banco de Dados + Dashboard) pa
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 *   **Linguagem:** Python 
-*   **Banco de Dados:** [“RAIS_ESTAB_PUB.txt, ex: PostgreSQL / SQLite]
+*   **Banco de Dados:** [“RAIS_ESTAB_PUB.txt]
 *   **Visualização:** Power BI 
 *   **Gestão:** Metodologias Ágeis (5W2H,SWOT) para planejamento e execução
 
