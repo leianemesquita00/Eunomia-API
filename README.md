@@ -18,7 +18,7 @@ Desenvolver uma solução de dados para o **Mapeamento do Ecossistema Industrial
 | **Product Owner** |  APOLLO ALVES CARLOTO  | [![LinkedIn](https://shields.io)](https://linkedin.com) [![GitHub](https://shields.io)](https://github.com) |
 | **Scrum Master** |  GUILHERME VIEIRA MACHADO FERREIRA  | [![LinkedIn](https://shields.io)](https://linkedin.com) [![GitHub](https://shields.io)](https://github.com) |
 | **Team Member** | CAIO PARDINI CARLOS  | [![LinkedIn](https://shields.io)](https://linkedin.com) [![GitHub](https://shields.io)](https://github.com) |
-| **Team Member** | LEIANE MESQUITA DA SILVA   | [![LinkedIn](https://shields.io)](https://linkedin.com) !(https://github.com/leianemesquita00) |
+| **Team Member** | LEIANE MESQUITA DA SILVA   | [![LinkedIn](https://shields.io)](https://linkedin.com) ![![GitHub](https://shields.io)](https://github.com/leianemesquita00) |
 | **Team Member** |  ROSANGELA ANTUNES BANDEIRA  | [![LinkedIn](https://shields.io)](https://linkedin.com) [![GitHub](https://shields.io)](https://github.com) |
 
 ---
