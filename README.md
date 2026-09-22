@@ -1,2 +1,2 @@
-# API-Eun-mia
+# API-Eunômia
 Mapeamento do ecossistema industrial e de serviços de São José dos Campos utilizando Python, banco de dados e Power BI.
