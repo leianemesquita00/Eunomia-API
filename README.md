@@ -1,17 +1,65 @@
-# API-Eunômia
-# Mapeamento do Ecossistema Industrial e de Serviços - Região de SJC
+# Aprendizado por Projeto Integrado (API) - Fatec SJC
+
+Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil (SCRUM). 
+
+O projeto adota a estratégia **CDIO** (Conceber, Desenhar, Implementar e Operar) para entender o cenário econômico atual e propor uma solução viável através de um MVP.
+
+---
 
 ## 🎯 Objetivo do Projeto
-Desenvolvimento de uma solução integrada (API + Banco de Dados + Dashboard) para leitura, organização e interpretação de dados econômicos e industriais da região de São José dos Campos, com foco na análise e entendimento da cadeia de suprimentos local.
+Desenvolver uma solução de dados para o **Mapeamento do Ecossistema Industrial e de Serviços da Região de São José dos Campos**, permitindo a leitura, organização e interpretação de indicadores econômicos para análise de cadeias de suprimentos e apoio à tomada de decisão.
 
-## 🛠️ Tecnologias e Ferramentas Utilizadas
-*   **Linguagem:** Python 
-*   **Banco de Dados:** [“RAIS_ESTAB_PUB.txt]
-*   **Visualização:** Power BI 
-*   **Gestão:** Metodologias Ágeis (5W2H,SWOT) para planejamento e execução
+---
+
+## 👥 Equipe
+
+| Função | Nome | Contato |
+| :--- | :--- | :--- |
+| **Product Owner** | [Nome do Aluno 1] | [![LinkedIn](https://shields.io)](https://linkedin.com) [![GitHub](https://shields.io)](https://github.com) |
+| **Scrum Master** | [Nome do Aluno 2] | [![LinkedIn](https://shields.io)](https://linkedin.com) [![GitHub](https://shields.io)](https://github.com) |
+| **Team Member** | [Nome do Aluno 3] | [![LinkedIn](https://shields.io)](https://linkedin.com) [![GitHub](https://shields.io)](https://github.com) |
+| **Team Member** | [Nome do Aluno 4] | [![LinkedIn](https://shields.io)](https://linkedin.com) [![GitHub](https://shields.io)](https://github.com) |
+| **Team Member** | [Nome do Aluno 5] | [![LinkedIn](https://shields.io)](https://linkedin.com) [![GitHub](https://shields.io)](https://github.com) |
+| **Team Member** | [Nome do Aluno 6] | [![LinkedIn](https://shields.io)](https://linkedin.com) [![GitHub](https://shields.io)](https://github.com) |
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+*   **Python (Google Colab):** Pensamento computacional para extração e tratamento dos dados econômicos.
+*   **MySQL:** Armazenamento, estruturação e modelagem da base de dados industriais.
+*   **Power BI & Excel:** Análise visual, criação de dashboards e relatórios gerenciais estruturados.
+*   **Jira Software & Slack:** Planejamento ágil (Scrum), acompanhamento de tarefas e comunicação interna.
+
+---
 
 ## 🧠 Competências Desenvolvidas
-*   **Fundamentos de Cadeia de Suprimentos:** Visão sistêmica aplicada a processos produtivos e de serviços.
-*   **Análise de Dados:** Leitura, organização e interpretação de indicadores econômicos e industriais reais.
-*   **Comunicação Técnica:** Elaboração de relatórios gerenciais e dashboards interpretativos.
-*   **Trabalho em Equipe:** Organização interna e colaboração ágil para a entrega do projeto.
+*   Introdução aos fundamentos de cadeia de suprimentos e processos produtivos;
+*   Leitura, organização e interpretação de dados econômicos e industriais reais;
+*   Pensamento computacional aplicado à resolução de problemas de mercado;
+*   Comunicação técnica e elaboração de relatórios/dashboards interativos;
+*   Trabalho em equipe, proatividade, autonomia e gestão de projetos;
+*   Metodologia ágil (Scrum) para planejamento físico e execução de entregas.
+
+---
+
+## 📋 Product Backlog (Exemplo do Escopo Local)
+
+| Rank | Prioridade | User Story | Estimativa | Sprint |
+| :---: | :---: | :--- | :---: | :---: |
+| 1 | Alta | Como analista econômico, quero extrair os dados das indústrias de SJC em Python para limpar e organizar a base inicial. | 5 | 1 |
+| 2 | Alta | Como gestor público, quero armazenar os dados higienizados em um banco MySQL para garantir a segurança e consistência das informações. | 8 | 1 |
+| 3 | Alta | Como tomador de decisão, quero visualizar o ecossistema industrial de SJC em um painel do Power BI para identificar gargalos na cadeia de suprimentos. | 8 | 2 |
+| 4 | Média | Como usuário do sistema, quero gerar relatórios consolidados em Excel para auditorias e apresentações técnicas. | 3 | 3 |
+
+---
+
+## ⏱️ Registro das Sprints
+
+| Sprint | Previsão | Status | Histórico / Entregável |
+| :---: | :---: | :---: | :--- |
+| **01** | dd/mm/2026 | ⏳ A fazer | Extração de dados (Python) + Modelagem do Banco (MySQL) - MVP 1 |
+| **02** | dd/mm/2026 | ⏳ A fazer | Integração do banco com Power BI + Primeiras visualizações - MVP 2 |
+| **03** | dd/mm/2026 | ⏳ A fazer | Dashboard finalizado + Relatórios gerenciais de suprimentos - MVP 3 |
+| **Feira de Soluções** | dd/mm/2026 | ⏳ A fazer | Apresentação final do projeto integrador e validação externa |
+
+---
