@@ -55,7 +55,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Rank | Prioridade | User Story | Estimativa | Sprint |
 | :---: | :---: | :--- | :---: | :---: |
-| 1 | Alta | Como analista econômico, quero extrair os dados das indústrias de SJC em Python para limpar e organizar a base inicial. | 5 | 1 |
+| 1 | Alta |Como analista, quero visualizar quais os principais setores industriais e de serviços da região para compreender o ecossistema econômico regional. | 5 | 1 |
 | 2 | Alta | Como gestor público, quero armazenar os dados higienizados em um banco MySQL para garantir a segurança e consistência das informações. | 8 | 1 |
 | 3 | Alta | Como tomador de decisão, quero visualizar o ecossistema industrial de SJC em um painel do Power BI para identificar gargalos na cadeia de suprimentos. | 8 | 2 |
 | 4 | Média | Como usuário do sistema, quero gerar relatórios consolidados em Excel para auditorias e apresentações técnicas. | 3 | 3 |
