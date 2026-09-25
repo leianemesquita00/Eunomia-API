@@ -20,11 +20,11 @@ Desenvolver uma solução de dados para o **Mapeamento do Ecossistema Industrial
 
 | Função | Nome | Contato |
 | :--- | :--- | :--- |
-| **Product Owner** |  APOLLO ALVES CARLOTO  | [![LinkedIn](https://shields.io)](https://linkedin.com) [![GitHub](https://shields.io)](https://github.com) |
-| **Scrum Master** |  GUILHERME VIEIRA MACHADO FERREIRA  | [![LinkedIn](https://shields.io)](https://linkedin.com) [![GitHub](https://shields.io)](https://github.com) |
+| **Product Owner** |  APOLLO ALVES CARLOTO  | [![LinkedIn](https://shields.io)](https://linkedin.com) [![GitHub](https://shields.io)](https://github.com/apollocarloto) |
+| **Scrum Master** |  GUILHERME VIEIRA MACHADO FERREIRA  | [![LinkedIn](https://shields.io)](https://linkedin.com) [![GitHub](https://shields.io)](https://github.com/GuilhermeVMF1003) |
 | **Team Member** | CAIO PARDINI CARLOS  | [![LinkedIn](https://shields.io)](https://linkedin.com) [![GitHub](https://shields.io)](https://github.com) |
 | **Team Member** | LEIANE MESQUITA DA SILVA   | [![LinkedIn](https://shields.io)](https://linkedin.com) ![![GitHub](https://shields.io)](https://github.com/leianemesquita00) |
-| **Team Member** |  ROSANGELA ANTUNES BANDEIRA  | [![LinkedIn](https://shields.io)](https://linkedin.com) [![GitHub](https://shields.io)](https://github.com) |
+| **Team Member** |  ROSANGELA ANTUNES BANDEIRA  | [![LinkedIn](https://shields.io)](https://linkedin.com) [![GitHub](https://shields.io)](https://https://github.com/rosangelaantunes) |
 
 ---
 ## 🎯 Objetivo do Projeto
@@ -75,7 +75,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Sprint | Previsão | Status | Histórico / Entregável |
 | :---: | :---: | :---: | :--- |
-| **01** | 01/10/2026 | ⏳ Feito | Extração de dados( POWER BI)+ integração de dados diferentes(POWER BI) - MVP 1 |
+| **01** | 01/10/2026 | ⏳ Feito | Extração de dados ( POWER BI) + integração de dados diferentes (POWER BI) - MVP 1 |
 | **02** | 29/10/2026 | ⏳ A fazer | Integração do banco com Power BI + Primeiras visualizações - MVP 2 |
 | **03** | 26/11/2026 | ⏳ A fazer | Dashboard finalizado + Relatórios gerenciais de suprimentos - MVP 3 |
 | **Feira de Soluções** | 03/12/2026 | ⏳ A fazer | Apresentação final do projeto integrador e validação externa |
