@@ -50,7 +50,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 ---
 
-## 📋 Product Backlog (Exemplo do Escopo Local)
+## 📋 Product Backlog 
 
 | Rank | Prioridade | User Story | Sprint |
 | :---: | :---: | :--- | :---: |
