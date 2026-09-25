@@ -53,7 +53,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 ## 📋 Product Backlog (Exemplo do Escopo Local)
 
-| Rank | Prioridade | User Story | Estimativa | Sprint |
+| Rank | Prioridade | User Story | Sprint |
 | :---: | :---: | :--- | :---: | :---: |
 | 1 | Alta |Como analista, quero visualizar quais os principais setores industriais e de serviços da região para compreender o ecossistema econômico regional. | 1 |
 | 2 | Alta | Como analista, quero classificar as atividades econômicas da região de acordo com seus setores, para identificar o perfil produtivo predominante.  | 1 |
