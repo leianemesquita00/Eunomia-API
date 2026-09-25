@@ -23,9 +23,9 @@ Desenvolver uma solução de dados para o **Mapeamento do Ecossistema Industrial
 | **Product Owner** |  APOLLO ALVES CARLOTO  | [![Linkedin Badge](https://shields.io)](https://linkedin.com) [![GitHub](https://shields.io)](https://github.com/apollocarloto) |
 | **Scrum Master** |  GUILHERME VIEIRA MACHADO FERREIRA  | [![LinkedIn](https://shields.io)](https://linkedin.com) [![GitHub](https://shields.io)](https://github.com/GuilhermeVMF1003) |
 | **Team Member** | CAIO PARDINI CARLOS  | [![LinkedIn](https://shields.io)](https://linkedin.com) [![GitHub](https://shields.io)](https://github.com) |
-| **Team Member** | LEIANE MESQUITA DA SILVA   | [![LinkedIn](https://shields.io)](https://linkedin.com) ![![GitHub](https://shields.io)](https://github.com/leianemesquita00) |
+| **Team Member** | LEIANE MESQUITA DA SILVA   |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/leianemesquita00)  |
 | **Team Member** |  ROSANGELA ANTUNES BANDEIRA  | [![LinkedIn](https://shields.io)](https://linkedin.com) [![GitHub](https://shields.io)](https://https://github.com/rosangelaantunes) |
-
+  
 ## 🎯 Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
 * **Centralizar** os trabalhos e projetos;
