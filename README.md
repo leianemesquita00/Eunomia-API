@@ -68,7 +68,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 9 | Media |Como analista, quero consultar os indicadores econômicos dos setores identificados, para analisar seus resultados e participações no ecossistema da região. | 3 |
 | 10 | Media |Como analista, quero visualizar através de gráficos a participação dos diferentes setores analisados, para interpretar e comparar suas participações e predominância na região com maior facilidade. | 3 |
 | 12 | Media |Como analista, quero poder utilizar as informações obtidas sobre o ecossistema industrial para apoiar decisões futuras em relação ao desenvolvimento econômico da região. | 3 |
-| 14 | Media |Como analista, quero poder acessar os dados e documentações utilizados de forma organizada, para consultar e compreender as informações utilizadas nas análises.  | 3 |
+| 14 | baixa |Como analista, quero poder acessar os dados e documentações utilizados de forma organizada, para consultar e compreender as informações utilizadas nas análises.  | 3 |
 ---
 
 ## ⏱️ Registro das Sprints
