@@ -12,7 +12,8 @@ Projeto baseado na metodologia ágil **SCRUM**, procurando desenvolver a **Proat
 ---
 
 ## 🎯 projeto-api
-Desenvolver uma solução de dados para o **Mapeamento do Ecossistema Industrial e de Serviços da Região de São José dos Campos**, permitindo a leitura, organização e interpretação de indicadores econômicos para análise de cadeias de suprimentos e apoio à tomada de decisão.
+
+Projeto acadêmico desenvolvido através da Metodologia API para formação superior focada no desenvolvimento de competências pessoais e profissionais fundamentadas em tratativas de problemas reais e metodologia ágil. Estruturado através de planejamentos para resolução de questões aderindo respostas acuradas e implementando o MVP (Minimum Viable Product) durante todo o processo da operação. Os resultados esperados desses projetos devem seguir os critérios do "Aviso Legal" disponibilizado no portal da Fatec SJC, junto das datas do kickoff e das entregas de cada Sprint.
 
 ---
 
