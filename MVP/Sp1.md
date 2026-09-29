@@ -63,6 +63,8 @@
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+- Prints de tela  -Espaço reservado para inserção de capturas de tela dos dashboards em Power BI)
+
+- Fluxos ou protótipos- (Diagrama do pipeline de dados extraídos via Google Colab e estruturados para o BI)
+
+- Vídeo (MVP)-(Link para a gravação de demonstração de navegação da ferramenta)
