@@ -2,9 +2,10 @@
 
 ## 🎯 Objetivo do MVP
 
-Tratamento de dados de um mapeamento estruturado, centralizado e de fácil visualização do ecossistema produtivo regional.
-Tratamento com base Python, Google Colab, Power BI e Excel.
--
+- Tratamento de dados de um mapeamento estruturado, centralizado e de fácil visualização do ecossistema produtivo regional.
+  
+- Tratamento com base Python, Google Colab, Power BI e Excel.
+
 - Qual valor será entregue ao usuário final?  
 
 ---
