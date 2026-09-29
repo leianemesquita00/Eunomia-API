@@ -69,7 +69,10 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 10 | Media |Como analista, quero visualizar através de gráficos a participação dos diferentes setores analisados, para interpretar e comparar suas participações e predominância na região com maior facilidade. | 3 |
 | 12 | Media |Como analista, quero poder utilizar as informações obtidas sobre o ecossistema industrial para apoiar decisões futuras em relação ao desenvolvimento econômico da região. | 3 |
 | 14 | baixa |Como analista, quero poder acessar os dados e documentações utilizados de forma organizada, para consultar e compreender as informações utilizadas nas análises.  | 3 |
+
+
 ---
+
 
 ## ⏱️ Registro das Sprints
 
@@ -78,15 +81,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 |   **01**    |01/10/2026 |  ⏳ Feito |Extração de dados ( POWER BI) + integração de dados diferentes (POWER BI) | [MVP](MVP/sp1.md) |
 |  **02** | 29/10/2026  | a fazer  |   Integração do banco com Power BI + Primeiras visualizações   | [MVP](MVP/sp2.md)  |
 |  **03** | 26/11/2026 | a fazer  |Dashboard finalizado + Relatórios gerenciais de suprimentos  | [MVP](MVP/sp3.md)  |
-|  **Feira de Soluções** | 03/12/2026  | a fazer  |  Apresentação final do projeto integrador e validação externa  | [MVP] |
+|  **Feira de Soluções** | 03/12/2026  | a fazer  |  Apresentação final do projeto integrador e validação externa  | [MVP](MVP/sp3.md) |
 
 
 
-| Sprint | Previsão | Status | Histórico / Entregável |
-| :---: | :---: | :---: | :--- | | :--- |
-| **01** | 01/10/2026 | ⏳ Feito | Extração de dados ( POWER BI) + integração de dados diferentes (POWER BI) - MVP 1 | [MVP](MVP/sp1.md)|
-| **02** | 29/10/2026 | ⏳ A fazer | Integração do banco com Power BI + Primeiras visualizações - MVP 2 |
-| **03** | 26/11/2026 | ⏳ A fazer | Dashboard finalizado + Relatórios gerenciais de suprimentos - MVP 3 |
-| **Feira de Soluções** | 03/12/2026 | ⏳ A fazer | Apresentação final do projeto integrador e validação externa |
-
----
