@@ -10,7 +10,7 @@
 
 ---
 
-## 📝 Descrição da Solução
+## 📝 Descrição da Solução  😭
 > Breve explicação do que será desenvolvido e entregue nesta etapa.  
 - Funcionalidades principais incluídas  
 - Limitações conhecidas  
@@ -18,7 +18,7 @@
 
 ---
 
-## 👥 Personas / Usuários-Alvo
+## 👥 Personas / Usuários-Alvo 😭
 - **Persona 1:** breve descrição, necessidades e dores atendidas  
 - **Persona 2:** breve descrição, necessidades e dores atendidas  
 
@@ -43,14 +43,14 @@
 
 ---
 
-## 📊 Critérios de Aceitação
+## 📊 Critérios de Aceitação 😭
 - O MVP deve permitir que o usuário [ação principal]  
 - O sistema deve registrar [evento importante]  
 - Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
 
 ---
 
-## 📈 Métricas de Validação
+## 📈 Métricas de Validação  😭
 - Número de usuários que testaram o MVP  
 - Feedback qualitativo (positivo/negativo)  
 - Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
