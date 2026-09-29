@@ -11,16 +11,16 @@
 ---
 
 ## 📝 Descrição da Solução  😭
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+> Limpeza, tratamento e estabelecimento de conexões da base de dados fornecida pelo cliente  
+- Isolamento dos dados relevantes para o cliente
+- Montagem dos primeiros gráficos, a fim de testar a conectividade entre a base de dados fonte e outros recursos adquiridos através de pesquisa
+- Pouca consideração pela poluição ou legibilidade dos gráficos iniciais
+- Visualização facilitada de dadas informações contidas na base de dados
 
 ---
 
 ## 👥 Personas / Usuários-Alvo 😭
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Analista de dados:** Funcionário que busca certas informações a fim de interpretá-las e obter insights acerca da cidade de São José dos Campos, Visualizar os principais setores e classes economicas da cidade e Dificuldade de interpratação dos dados a partir do banco de dados incial por falta de clareza e identificação de informaçoes lá contidas  
 
 ---
 
@@ -44,23 +44,21 @@
 ---
 
 ## 📊 Critérios de Aceitação 😭
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário confirme a conectividade entre os dados e assegurar que a base de dados contém os dados mais relevantes para suas necessidades 
+- Métricas coletadas: Respostas consistentes quando requisitadas visualizações que exigiam conexões entre diferentes fontes.
 
 ---
 
 ## 📈 Métricas de Validação  😭
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Número de usuários que testaram o MVP: 2  
+- Feedback qualitativo: Em sua maioria positivos  
 
 ---
 
 ## 🚀 Próximos Passos
--Melhorias planejadas após feedback: Inclusão de novos recortes geográficos ou refinamento de filtros setoriais solicitados pelo cliente.
+-Melhorias planejadas após feedback: Inclusão de novos recortes geográficos e refinamento de filtros setoriais solicitados pelo cliente.
 
--Ajustes de usabilidade: Otimização do layout visual e paleta de cores do Power BI para facilitar apresentações institucionais.
+-Ajustes de usabilidade: Otimização do layout visual e paleta de cores do Power BI para facilitar apresentações institucionais, além da limpeza dos gráficos a fim de diminuir a poluição visual
 
 -Expansão de funcionalidades: Incorporação de representação geográfica mais detalhada (mapas de calor/distribuição espacial) nas próximas iterações do projeto.
 
