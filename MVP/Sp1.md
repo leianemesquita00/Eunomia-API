@@ -46,7 +46,7 @@
 - O sistema deve registrar [evento importante]  
 - Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
 
----
+----
 
 ## 📈 Métricas de Validação
 - Número de usuários que testaram o MVP  
@@ -56,14 +56,16 @@
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+-Melhorias planejadas após feedback: Inclusão de novos recortes geográficos ou refinamento de filtros setoriais solicitados pelo cliente.
+
+- Ajustes de usabilidade: Otimização do layout visual do Power BI para facilitar apresentações.
+
+- Expansão de funcionalidades: Incorporação de representação geográfica mais detalhada (mapas de calor/distribuição espacial) nas próximas iterações do projeto. 
 
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  -Espaço reservado para inserção de capturas de tela dos dashboards em Power BI)
+- Prints de tela  -(Espaço reservado para inserção de capturas de tela dos dashboards em Power BI)
 
 - Fluxos ou protótipos- (Diagrama do pipeline de dados extraídos via Google Colab e estruturados para o BI)
 
