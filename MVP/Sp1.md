@@ -10,7 +10,7 @@
 
 ---
 
-## 📝 Descrição da Solução  😭
+## 📝 Descrição da Solução  
 > Limpeza, tratamento e estabelecimento de conexões da base de dados fornecida pelo cliente  
 - Isolamento dos dados relevantes para o cliente
 - Montagem dos primeiros gráficos, a fim de testar a conectividade entre a base de dados fonte e outros recursos adquiridos através de pesquisa
@@ -19,7 +19,7 @@
 
 ---
 
-## 👥 Personas / Usuários-Alvo 😭
+## 👥 Personas / Usuários-Alvo 
 - **Analista de dados:** Funcionário que busca certas informações a fim de interpretá-las e obter insights acerca da cidade de São José dos Campos, Visualizar os principais setores e classes economicas da cidade e Dificuldade de interpratação dos dados a partir do banco de dados incial por falta de clareza e identificação de informaçoes lá contidas  
 
 ---
@@ -43,13 +43,13 @@
 
 ---
 
-## 📊 Critérios de Aceitação 😭
+## 📊 Critérios de Aceitação 
 - O MVP deve permitir que o usuário confirme a conectividade entre os dados e assegurar que a base de dados contém os dados mais relevantes para suas necessidades 
 - Métricas coletadas: Respostas consistentes quando requisitadas visualizações que exigiam conexões entre diferentes fontes.
 
 ---
 
-## 📈 Métricas de Validação  😭
+## 📈 Métricas de Validação  
 - Número de usuários que testaram o MVP: 2  
 - Feedback qualitativo: Em sua maioria positivos  
 
