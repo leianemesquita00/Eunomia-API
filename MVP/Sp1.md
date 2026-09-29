@@ -2,7 +2,9 @@
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve? 
+- Qual problema resolve?
+-  # Data Processing
+## Structured, Centralized, and Visual Mapping of the Regional Productive Ecosystem
 - Qual hipótese será validada?  
 - Qual valor será entregue ao usuário final?  
 
