@@ -26,7 +26,10 @@
 
 | Rank | Prioridade | User Story | Sprint |                                                    
 |-----|----------|------------------------------------------------------------------------|------------|
-
+| 1 | Alta |Como analista, quero visualizar quais os principais setores industriais e de serviços da região para compreender o ecossistema econômico regional. | 1 |
+| 2 | Alta | Como analista, quero classificar as atividades econômicas da região de acordo com seus setores, para identificar o perfil produtivo predominante.  | 1 |
+| 7 | Alta | Como analista, quero identificar os principais processos que caracterizam as atividades realizadas nas empresas e setores da região. | 1 |
+| 11 | Média | Como analista, quero consultar as fontes e referências dos dados utilizados nos resultados apresentados, para verificar a origem das informações disponibilizadas e garantir maior transparência e segurança nas análises realizadas.| 1 |
 
 ---
 
