@@ -58,9 +58,11 @@
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+-Melhorias planejadas após feedback: Inclusão de novos recortes geográficos ou refinamento de filtros setoriais solicitados pelo cliente.
+
+-Ajustes de usabilidade: Otimização do layout visual e paleta de cores do Power BI para facilitar apresentações institucionais.
+
+-Expansão de funcionalidades: Incorporação de representação geográfica mais detalhada (mapas de calor/distribuição espacial) nas próximas iterações do projeto.
 
 ---
 
