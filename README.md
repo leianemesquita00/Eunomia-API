@@ -75,7 +75,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Sprint | Previsão | Status | Histórico / Entregável |
 | :---: | :---: | :---: | :--- | | :--- |
-| **01** | 01/10/2026 | ⏳ Feito | Extração de dados ( POWER BI) + integração de dados diferentes (POWER BI) - MVP 1 | [MVP](MVP/sp1.md)  |
+| **01** | 01/10/2026 | ⏳ Feito | Extração de dados ( POWER BI) + integração de dados diferentes (POWER BI) - MVP 1 | [MVP](MVP/sp1.md)|
 | **02** | 29/10/2026 | ⏳ A fazer | Integração do banco com Power BI + Primeiras visualizações - MVP 2 |
 | **03** | 26/11/2026 | ⏳ A fazer | Dashboard finalizado + Relatórios gerenciais de suprimentos - MVP 3 |
 | **Feira de Soluções** | 03/12/2026 | ⏳ A fazer | Apresentação final do projeto integrador e validação externa |
