@@ -73,6 +73,11 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 ## ⏱️ Registro das Sprints
 
+| Sprint            | Previsão   | Status   | Histórico /Entregável |
+|-------------------|------------|----------|--------------|
+| 01                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp1.md)  |
+
+
 | Sprint | Previsão | Status | Histórico / Entregável |
 | :---: | :---: | :---: | :--- | | :--- |
 | **01** | 01/10/2026 | ⏳ Feito | Extração de dados ( POWER BI) + integração de dados diferentes (POWER BI) - MVP 1 | [MVP](MVP/sp1.md)|
