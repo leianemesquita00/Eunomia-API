@@ -1,10 +1,8 @@
 # 📌 MVP - [Eunomia]
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?
--  # Data Processing
-## Structured, Centralized, and Visual Mapping of the Regional Productive Ecosystem
+
+Tratamento de dados de um mapeamento estruturado, centralizado e de fácil visualização do ecossistema produtivo regional.
 - Qual hipótese será validada?  
 - Qual valor será entregue ao usuário final?  
 
