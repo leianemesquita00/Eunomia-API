@@ -36,8 +36,8 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     |Coleta, tratamento inicial via Google Colab (Python) e estruturação das primeiras visualizações no Power BI | Concluído|
+| 02     | Refinamento dos dashboards, validação com o cliente (CADI/Secretaria) e consolidação da documentação no GitHub | Em andamento |
 
 ---
 
