@@ -6,7 +6,7 @@
   
 - Tratamento com base Python, Google Colab, Power BI e Excel.
 
-- Qual valor será entregue ao usuário final?  
+- Visibilidade sistêmica e analítica do ecossistema produtivo regional, permitindo apoiar iniciativas de tomada de decisão na gestão pública com base em dados transparentes e organizados.
 
 ---
 
