@@ -56,7 +56,7 @@
 - Melhorias planejadas após feedback  
 - Ajustes de usabilidade  
 - Expansão de funcionalidades para próximo incremento  
--
+
 ---
 
 ## 📂 Anexos / Evidências
