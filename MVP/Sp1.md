@@ -69,4 +69,4 @@
 
 - Fluxos ou protótipos- (Diagrama do pipeline de dados extraídos via Google Colab e estruturados para o BI)
 
-- Vídeo (MVP)-(Link para a gravação de demonstração de navegação da ferramenta)
+- Vídeo -([MVPsp1](https://drive.google.com/file/d/1i3blTzz0coABN9m3lvxbE95qpP7O1EVC/view?usp=sharing))
