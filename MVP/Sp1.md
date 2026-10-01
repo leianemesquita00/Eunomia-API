@@ -71,4 +71,4 @@
 
 - Vídeo -[MVPsp1](https://drive.google.com/file/d/1i3blTzz0coABN9m3lvxbE95qpP7O1EVC/view?usp=sharing)
 
-- Solução [PowerBI](https://app.powerbi.com/viewr=eyJrIjoiNTE3ZmViOWQtZDA5Ni00YTIwLTg3NDYtZWNlY2RjNzQ4MDcxIiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9)
+- Solução [PowerBI](https://app.powerbi.com/view?r=eyJrIjoiNTE3ZmViOWQtZDA5Ni00YTIwLTg3NDYtZWNlY2RjNzQ4MDcxIiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9)
