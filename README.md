@@ -28,12 +28,9 @@ Projeto acadêmico desenvolvido através da Metodologia API para formação supe
 | **Team Member** |  ROSANGELA ANTUNES BANDEIRA  |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/rosangelaantunes) |
   
 ## 🎯 Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* **Centralizar** os trabalhos e projetos;
-* **Organizar e estruturar** as informações;
-* **Versionar e controlar** as alterações;
-* **Facilitar** o compartilhamento e feedback;
-* **Desenvolver** habilidades técnicas.
+## Mapeamento do Ecossistema Industrial e de Serviços da Região de São José dos Campos.   
+* **Problema a Ser Resolvido:** Ausência de um mapeamento estruturado com informações atualizadas sobre a estrutura produtiva regional e os impactos gerados pelo forte ecossistema econômico (aeroespacial, automotivo, químico e serviços especializados) de São José dos Campos.   
+* **Valor Entregue:** Incentivo à tomada de decisão da gestão pública e apoio na compreensão do perfil produtivo regional, identificando setores predominantes, distribuição geográfica e oportunidades de desenvolvimento econômico e tecnológico.
 
 ## 🛠️ Tecnologias Utilizadas
 *   **Python (Google Colab):** Pensamento computacional para extração e tratamento dos dados econômicos.
