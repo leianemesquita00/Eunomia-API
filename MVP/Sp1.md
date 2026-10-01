@@ -70,3 +70,5 @@
 - ![Captura de tela do dashboard inicial](https://github.com/leianemesquita00/Eunomia-API/blob/main/MVP/Imagens/SP1-2.png)
 
 - Vídeo -[MVPsp1](https://drive.google.com/file/d/1i3blTzz0coABN9m3lvxbE95qpP7O1EVC/view?usp=sharing)
+
+- Solução [PowerBI](https://app.powerbi.com/view?r=eyJrIjoiNTE3ZmViOWQtZDA5Ni00YTIwLTg3NDYtZWNlY2RjNzQ4MDcxIiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9)
