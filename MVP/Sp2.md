@@ -28,10 +28,11 @@
 
 | Rank | Prioridade | User Story | Sprint |                                                    
 |-----|----------|------------------------------------------------------------------------|------------|
-| 1 | Alta |Como analista, quero visualizar quais os principais setores industriais e de serviços da região para compreender o ecossistema econômico regional. | 1 |
-| 2 | Alta | Como analista, quero classificar as atividades econômicas da região de acordo com seus setores, para identificar o perfil produtivo predominante.  | 1 |
-| 7 | Alta | Como analista, quero identificar os principais processos que caracterizam as atividades realizadas nas empresas e setores da região. | 1 |
-| 11 | Média | Como analista, quero consultar as fontes e referências dos dados utilizados nos resultados apresentados, para verificar a origem das informações disponibilizadas e garantir maior transparência e segurança nas análises realizadas.| 1 |
+| 3 | Alta |Como analista, quero saber como estes setores estão distribuídos geograficamente para compreender a concentração das atividades econômicas na região.  | 2|
+| 4 | Alta | Como analista, quero consultar os dados dos setores utilizando critérios de seleção variados, como os principais processos realizados, identificados pela subclasse CNAE do IBGE, para filtrar e contemplar apenas sobre informações específicas de cada empresa.  | 2 |
+| 5 | Alta | Como analista, quero identificar a natureza jurídica dos estabelecimentos para entender quais tipos predominam uma cidade e realizar escolhas que contemplam essa distribuição. | 2 |
+| 8 | Média | Como analista, quero comparar os diferentes estabelecimentos por seu tamanho e quantidade de vínculos ativos, CLT ou não, para compreender a influência no mercado de trabalho joseense de cada um destes. | 2 |
+| 13 | Baixa | Como analista, quero consultar a metodologia utilizada nas análises e organização, para compreender a obtenção e compilação dos resultados obtidos. | 2 |
 
 ---
 
