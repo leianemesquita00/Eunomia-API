@@ -29,7 +29,7 @@ Projeto acadêmico desenvolvido através da Metodologia API para formação supe
   
 ## 🎯 Objetivo do Projeto
 ## Mapeamento do Ecossistema Industrial e de Serviços da Região de São José dos Campos.   
-* **Problema a Ser Resolvido:** Ausência de um mapeamento estruturado com informações atualizadas sobre a estrutura produtiva regional e os impactos gerados pelo forte ecossistema econômico (aeroespacial, automotivo, químico e serviços especializados) de São José dos Campos.   
+* **Problema a Ser Resolvido:** Ausência de um mapeamento estruturado com informações atualizadas sobre a estrutura produtiva regional e os impactos gerados pelo forte ecossistema econômico (aeroespacial, automotivo, químico e serviços especializados) de São José dos Campos.  
 * **Valor Entregue:** Incentivo à tomada de decisão da gestão pública e apoio na compreensão do perfil produtivo regional, identificando setores predominantes, distribuição geográfica e oportunidades de desenvolvimento econômico e tecnológico.
 
 ## 🛠️ Tecnologias Utilizadas
