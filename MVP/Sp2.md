@@ -1,4 +1,5 @@
-# 📌 MVP - ## Mapeamento do Ecossistema Industrial e de Serviços da Região de São José dos Campos.   
+# 📌 MVP 
+## Mapeamento do Ecossistema Industrial e de Serviços da Região de São José dos Campos.   
 
 ## 🎯 Objetivo do MVP
 
