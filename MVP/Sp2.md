@@ -66,9 +66,6 @@
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  ![Captura de tela das relações entre diferentes tabelas](https://github.com/leianemesquita00/Eunomia-API/blob/main/MVP/Imagens/SP1-3.png)
-- ![Captura de tela com as tabelas e suas colunas](https://github.com/leianemesquita00/Eunomia-API/blob/main/MVP/Imagens/SP1-1.png)
-- ![Captura de tela do dashboard inicial](https://github.com/leianemesquita00/Eunomia-API/blob/main/MVP/Imagens/SP1-2.png)
 
 - Vídeo -[MVPsp1](https://drive.google.com/file/d/1i3blTzz0coABN9m3lvxbE95qpP7O1EVC/view?usp=sharing)
 
