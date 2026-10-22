@@ -76,7 +76,7 @@ Projeto acadêmico desenvolvido através da Metodologia API para formação supe
 | Sprint            | Previsão   | Status   | Histórico |Entregável |
 |-------------------|------------|----------|----------|----------|
 |   **01**    |01/10/2026 | ⏳ concluído   |Extração de dados ( POWER BI) + integração de dados diferentes (POWER BI) | [MVP](https://github.com/leianemesquita00/Eunomia-API/tree/main/MVP) |
-|  **02** | 29/10/2026  | ⏳ Em andamento  |  Integração do banco com Power BI + Primeiras visualizações   | [MVP](MVP/sp2.md)  |
+|  **02** | 29/10/2026  | ⏳ Em andamento  |  Integração do banco com Power BI + Primeiras visualizações   | [MVP](https://github.com/leianemesquita00/Eunomia-API/tree/main/MVP/Sp2.md)  |
 |  **03** | 26/11/2026 | ⏳ Em andamento   | Dashboard finalizado + Relatórios gerenciais de suprimentos  | [MVP](MVP/sp3.md)  |
 |  **Feira de Soluções** | 03/12/2026  | ⏳ Em andamento |  Apresentação final do projeto integrador e validação externa  | [MVP](MVP/sp3.md) |
 
