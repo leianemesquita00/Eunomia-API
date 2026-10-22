@@ -57,7 +57,7 @@ Projeto acadêmico desenvolvido através da Metodologia API para formação supe
 | 7 | Alta | Como analista, quero identificar os principais processos que caracterizam as atividades realizadas nas empresas e setores da região. | 1 |
 | 11 | Média | Como analista, quero consultar as fontes e referências dos dados utilizados nos resultados apresentados, para verificar a origem das informações disponibilizadas e garantir maior transparência e segurança nas análises realizadas.| 1 |
 | 3 | Alta |Como analista, quero saber como estes setores estão distribuídos geograficamente para compreender a concentração das atividades econômicas na região.| 2 |
-| 4 | Alta |Como analista, quero consultar os dados dos setores utilizando critérios de análise variados, para filtrar e analisar informações específicas sobre cada empresa. | 2 |
+| 4 | Alta |Como analista, quero consultar os dados dos setores utilizando critérios de seleção variados, como os principais processos realizados, identificados pela subclasse CNAE do IBGE, para filtrar e contemplar apenas sobre informações específicas de cada empresa.| 2 |
 | 5 | Alta |Como analista, quero analisar a relação entre os setores econômicos e o desenvolvimento tecnológico, para compreender sua contribuição para o desenvolvimento e inovação regional. | 2 |
 | 8 |Média |Como analista, quero comparar os diferentes setores analisados para identificar suas diferenças e respectivos níveis de participação na economia regional.  | 2 |
 | 13 | Baixa |Como analista, quero consultar a metodologia utilizada nas análises e organização, para compreender a obtenção e compilação dos resultados obtidos. | 2 |
