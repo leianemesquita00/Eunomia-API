@@ -3,11 +3,7 @@
 
 ## 🎯 Objetivo do MVP
 
-- Tratamento de dados de um mapeamento estruturado, centralizado e de fácil visualização do ecossistema produtivo regional.
-  
-- Tratamento com base Python, Google Colab, Power BI e Excel.
-
-- Visibilidade sistêmica e analítica do ecossistema produtivo regional, permitindo apoiar iniciativas de tomada de decisão na gestão pública com base em dados transparentes e organizados.
+- Consolidar a camada de inteligência analítica e espacial do ecossistema, permitindo a triagem de dados por CNAE e natureza jurídica, visualize a dispersão geográfica no município e avalie o impacto no mercado de trabalho.
 
 ---
 
