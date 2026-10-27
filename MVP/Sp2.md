@@ -8,13 +8,13 @@
 ---
 
 ## 📝 Descrição da Solução  
--Visualização Geoespacial Interativa: Um mapa de calor dinâmico da região de São José dos Campos que exibe com precisão a distribuição geográfica dos principais setores e polos econômicos, facilitando a identificação visual de aglomerações produtivas.
+- Visualização Geoespacial Interativa: Um mapa de calor dinâmico da região de São José dos Campos que exibe com precisão a distribuição geográfica dos principais setores e polos econômicos, facilitando a identificação visual de aglomerações produtivas.
 
--Filtros Avançados por Classificação Econômica (CNAE): Painéis de segmentação baseados nas subclasses do IBGE, possibilitando isolar subsetores específicos, ramos de atividade ou processos produtivos detalhados de cada estabelecimento.
+- Filtros Avançados por Classificação Econômica (CNAE): Painéis de segmentação baseados nas subclasses do IBGE, possibilitando isolar subsetores específicos, ramos de atividade ou processos produtivos detalhados de cada estabelecimento.
 
--Análise de Perfil Jurídico e Estrutural: Módulos de consulta para identificar a natureza jurídica predominante na cidade, permitindo compreender o perfil societário e a tipologia dos estabelecimentos locais.
+- Análise de Perfil Jurídico e Estrutural: Módulos de consulta para identificar a natureza jurídica predominante na cidade, permitindo compreender o perfil societário e a tipologia dos estabelecimentos locais.
 
--Dimensão do Mercado de Trabalho e Vínculos Empregatícios: Indicadores comparativos que avaliam o tamanho dos estabelecimentos e a quantidade de vínculos ativos (com distinção de vínculos CLT ou PJ), medindo o impacto e a influência de cada atividade no mercado de trabalho joseense. 
+- Dimensão do Mercado de Trabalho e Vínculos Empregatícios: Indicadores comparativos que avaliam o tamanho dos estabelecimentos e a quantidade de vínculos ativos (com distinção de vínculos CLT ou PJ), medindo o impacto e a influência de cada atividade no mercado de trabalho joseense. 
 
 ---
 
