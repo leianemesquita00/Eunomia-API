@@ -12,10 +12,10 @@
 ---
 
 ## 📝 Descrição da Solução  
-> Limpeza, tratamento e estabelecimento de conexões da base de dados fornecida pelo cliente  
-- Isolamento dos dados relevantes para o cliente
-- Montagem dos primeiros gráficos, a fim de testar a conectividade entre a base de dados fonte e outros recursos adquiridos através de pesquisa
-- Pouca consideração pela poluição ou legibilidade dos gráficos iniciais
+
+
+
+
 - Visualização facilitada de dadas informações contidas na base de dados
 
 ---
@@ -58,7 +58,7 @@
 ---
 
 ## 🚀 Próximos Passos
--Melhorias planejadas após feedback: Inclusão de novos recortes geográficos e refinamento de filtros setoriais solicitados pelo cliente.
+-Melhorias planejadas após feedback;
 
 -Ajustes de usabilidade: Otimização do layout visual e paleta de cores do Power BI para facilitar apresentações institucionais, além da limpeza dos gráficos a fim de diminuir a poluição visual
 
