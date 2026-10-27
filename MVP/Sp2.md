@@ -43,19 +43,20 @@
 
 ---
 
-## 📊 Critérios de Aceitação 
+## 📊 Critérios de Aceitação 😭
 - O MVP deve permitir que o usuário confirme a conectividade entre os dados e assegurar que a base de dados contém os dados mais relevantes para suas necessidades 
 - Métricas coletadas: Respostas consistentes quando requisitadas visualizações que exigiam conexões entre diferentes fontes.
 
 ---
 
-## 📈 Métricas de Validação  
-- Número de usuários que testaram o MVP: 2  
-- Feedback qualitativo: Em sua maioria positivos  
+## 📈 Métricas de Validação   🤡
+- Desempenho e Interatividade: Tempo de carregamento do mapa de calor e aplicação de filtros em menos de 3 segundos.
+- Cobertura de Dados: 100% dos registros essenciais da região de São José dos Campos tratados via Python/Pandas representados corretamente nas visualizações do Power BI.
+- Aderência aos Requisitos: Validação de que todas as user story de usuário planejadas para a Sprint 2 entregam os resultados analíticos esperados pelo analista/usuário-alvo.  
 
 ---
 
-## 🚀 Próximos Passos
+## 🚀 Próximos Passos😭
 -Melhorias planejadas após feedback;
 
 -Ajustes de usabilidade: Otimização do layout visual e paleta de cores do Power BI para facilitar apresentações institucionais, além da limpeza dos gráficos a fim de diminuir a poluição visual
