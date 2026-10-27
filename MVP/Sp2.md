@@ -68,5 +68,5 @@
 
 ## 📂 Anexos / Evidências
 
-- Vídeo -[MVPsp1](https://drive.google.com/file/d/1i3blTzz0coABN9m3lvxbE95qpP7O1EVC/view?usp=sharing)
+- Vídeo -
 
