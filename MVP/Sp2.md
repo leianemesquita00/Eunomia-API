@@ -43,9 +43,10 @@
 
 ---
 
-## 📊 Critérios de Aceitação 😭
-- O MVP deve permitir que o usuário confirme a conectividade entre os dados e assegurar que a base de dados contém os dados mais relevantes para suas necessidades 
-- Métricas coletadas: Respostas consistentes quando requisitadas visualizações que exigiam conexões entre diferentes fontes.
+## 📊 Critérios de Aceitação 
+- Além da conectividade entre os campos, deve ser comprovada que é possível a filtragem de dados sem perda de informações
+- Visualização de dados relevantes através de montagens gráficas inciais
+- Métricas coletadas: Respostas consistentes e sem perda de dados.
 
 ---
 
@@ -59,13 +60,11 @@
 ## 🚀 Próximos Passos😭
 -Melhorias planejadas após feedback;
 
--Ajustes de usabilidade: Otimização do layout visual e paleta de cores do Power BI para facilitar apresentações institucionais, além da limpeza dos gráficos a fim de diminuir a poluição visual
-
--Expansão de funcionalidades: Incorporação de representação geográfica mais detalhada (mapas de calor/distribuição espacial) nas próximas iterações do projeto.
+-Ajustes de usabilidade: Otimização do layout visual e paleta de cores do Power BI, consulta com o cliente a fim de identificar quais informações e respostas este considera mais desejáveis/importantes para seus fins e desenvolvimento mais detalhado e formalizado da documentação necessária.
 
 ---
 
 ## 📂 Anexos / Evidências
 
-- Link PowerBI 
+- Link [PowerBI](https://teams.cloud.microsoft/l/message/19:9bf7b5e8ed0e49dabf0b8ea836ed55d7@thread.v2/1793112050237?context=%7B%22contextType%22%3A%22chat%22%7D)
 
