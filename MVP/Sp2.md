@@ -57,7 +57,7 @@
 
 ---
 
-## 🚀 Próximos Passos😭
+## 🚀 Próximos Passos
 -Melhorias planejadas após feedback;
 
 -Ajustes de usabilidade: Otimização do layout visual e paleta de cores do Power BI, consulta com o cliente a fim de identificar quais informações e respostas este considera mais desejáveis/importantes para seus fins e desenvolvimento mais detalhado e formalizado da documentação necessária.
@@ -66,5 +66,5 @@
 
 ## 📂 Anexos / Evidências
 
-- Link [PowerBI](https://teams.cloud.microsoft/l/message/19:9bf7b5e8ed0e49dabf0b8ea836ed55d7@thread.v2/1793112050237?context=%7B%22contextType%22%3A%22chat%22%7D)
+- Link [PowerBI](https://app.powerbi.com/view?r=eyJrIjoiYjJjY2FlMDAtZTRmMi00MzZiLWIxMWUtNjc1NjMxYTdkM2YzIiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9)
 
