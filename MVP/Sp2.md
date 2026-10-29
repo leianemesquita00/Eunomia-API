@@ -50,9 +50,9 @@
 
 ---
 
-## 📈 Métricas de Validação   🤡
+## 📈 Métricas de Validação   
 - Desempenho e Interatividade: Tempo de carregamento do mapa de calor e aplicação de filtros em menos de 3 segundos.
-- Cobertura de Dados: 100% dos registros essenciais da região de São José dos Campos tratados via Python/Pandas representados corretamente nas visualizações do Power BI.
+- Cobertura de Dados: 100% dos registros essenciais da região de São José dos Campos tratados,representados corretamente nas visualizações do Power BI.
 - Aderência aos Requisitos: Validação de que todas as user story de usuário planejadas para a Sprint 2 entregam os resultados analíticos esperados pelo analista/usuário-alvo.  
 
 ---
