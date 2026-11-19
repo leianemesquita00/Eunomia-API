@@ -3,7 +3,7 @@
 
 ## 🎯 Objetivo do MVP
 
-- Consolidar a camada de inteligência analítica e espacial do ecossistema, permitindo a triagem de dados por CNAE e natureza jurídica, visualize a dispersão geográfica no município e avalie o impacto no mercado de trabalho.
+- Desenvolver e validar uma solução de Business Intelligence, composta por painéis interativos em Power BI e um repositório técnico documentado, capaz de consolidar, filtrar e visualizar dados empresariais (Razões Sociais e CNAEs) e demográficos da empregabilidade de São José dos Campos. O produto mínimo viável visa proporcionar aos analistas uma consulta ágil e rastreável do ecossistema econômico local, embasando a análise setorial e a tomada de decisões estratégicas voltadas ao desenvolvimento tecnológico e econômico do município.
 
 ---
 
