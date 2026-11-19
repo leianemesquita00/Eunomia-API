@@ -31,7 +31,7 @@
 | 9 | Média | Como analista, quero identificar as Razões Sociais associadas aos principais setores econômicos da região, para complementar análises de empregabilidade e aprofundar pesquisas e contato com empresas de meu interesse. | 3 |
 | 10 | Média |Como analista, quero visualizar através de gráficos os perfis dos empregados, tal como sexo, e escolaridade relacionados a diferentes parâmetros, para interpretar e comparar suas participações e predominância na região com maior facilidade. | 3 |
 | 12 | Média | Como analista, quero agrupar informações relevantes de meu interesse sobre cada setor econômico analisado através de elementos filtragem para facilitar a tomada de decisões futuras em relação ao desenvolvimento tecnológico e econômico de São José dos Campos. | 3 |
-| 14 |  Alta | Como analista, quero poder acessar os dados e documentações utilizados de forma organizada, para consultar e compreender as informações utilizadas nas análises.  | 2 |
+| 14 |  Alta | Como analista, quero poder acessar os dados e documentações utilizados de forma organizada, para consultar e compreender as informações utilizadas nas análises.  | 3 |
 
 ---
 
