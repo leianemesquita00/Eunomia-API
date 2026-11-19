@@ -27,11 +27,11 @@
 
 | Rank | Prioridade | User Story | Sprint |                                                    
 |-----|----------|------------------------------------------------------------------------|------------|
-| 3 | Alta |Como analista, quero saber como estes setores estão distribuídos geograficamente para compreender a concentração das atividades econômicas na região.  | 2|
-| 4 | Alta | Como analista, quero consultar os dados dos setores utilizando critérios de seleção variados, como os principais processos realizados, identificados pela subclasse CNAE do IBGE, para filtrar e contemplar apenas sobre informações específicas de cada empresa.  | 2 |
-| 5 | Alta | Como analista, quero identificar a natureza jurídica dos estabelecimentos para entender quais tipos predominam uma cidade e realizar escolhas que contemplam essa distribuição. | 2 |
-| 8 | Média | Como analista, quero comparar os diferentes estabelecimentos por seu tamanho e quantidade de vínculos ativos, CLT ou não, para compreender a influência no mercado de trabalho joseense de cada um destes. | 2 |
-| 13 | Baixa | Como analista, quero consultar a metodologia utilizada nas análises e organização, para compreender a obtenção e compilação dos resultados obtidos. | 2 |
+| 6  | Alta |Como analista, quero consultar os dados tratados através de gráficos e dashboards dedicados e estruturados apropriadamente, para facilitar sua visualização e compreensão.   | 3|
+| 9 | Média | Como analista, quero identificar as Razões Sociais associadas aos principais setores econômicos da região, para complementar análises de empregabilidade e aprofundar pesquisas e contato com empresas de meu interesse. | 3 |
+| 10 | Média |Como analista, quero visualizar através de gráficos os perfis dos empregados, tal como sexo, e escolaridade relacionados a diferentes parâmetros, para interpretar e comparar suas participações e predominância na região com maior facilidade. | 3 |
+| 12 | Média | Como analista, quero agrupar informações relevantes de meu interesse sobre cada setor econômico analisado através de elementos filtragem para facilitar a tomada de decisões futuras em relação ao desenvolvimento tecnológico e econômico de São José dos Campos. | 3 |
+| 14 |  Alta | Como analista, quero poder acessar os dados e documentações utilizados de forma organizada, para consultar e compreender as informações utilizadas nas análises.  | 2 |
 
 ---
 
