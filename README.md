@@ -61,11 +61,11 @@ Projeto acadêmico desenvolvido através da Metodologia API para formação supe
 | 5 | Alta |Como analista, quero identificar a natureza jurídica dos estabelecimentos para entender quais tipos predominam uma cidade e realizar escolhas que contemplam essa distribuição.| 2 |
 | 8 |Média |Como analista, quero comparar os diferentes estabelecimentos por seu tamanho e quantidade de vínculos ativos, CLT ou não, para compreender a influência no mercado de trabalho joseense de cada um destes.| 2 |
 | 13 | Baixa |Como analista, quero consultar a metodologia utilizada nas análises e organização, para compreender a obtenção e compilação dos resultados obtidos. | 2 |
-| 6 | Alta |Como analista, quero consultar os dados desejados através de gráficos e dashboards, para analisar as informações de forma integrada e precisa.  | 3 |
-| 9 | Media |Como analista, quero consultar os indicadores econômicos dos setores identificados, para analisar seus resultados e participações no ecossistema da região. | 3 |
-| 10 | Media |Como analista, quero visualizar através de gráficos a participação dos diferentes setores analisados, para interpretar e comparar suas participações e predominância na região com maior facilidade. | 3 |
-| 12 | Media |Como analista, quero poder utilizar as informações obtidas sobre o ecossistema industrial para apoiar decisões futuras em relação ao desenvolvimento econômico da região. | 3 |
-| 14 | baixa |Como analista, quero poder acessar os dados e documentações utilizados de forma organizada, para consultar e compreender as informações utilizadas nas análises.  | 3 |
+| 6 | Alta |Como analista, quero consultar os dados tratados através de gráficos e dashboards dedicados e estruturados apropriadamente, para facilitar sua visualização e compreensão. | 3 |
+| 9 | Media |Como analista, quero identificar as Razões Sociais associadas aos principais setores econômicos da região, para complementar análises de empregabilidade e aprofundar pesquisas e contato com empresas de meu interesse. | 3 |
+| 10 | Media |Como analista, quero visualizar através de gráficos os perfis dos empregados, tal como sexo, e escolaridade relacionados a diferentes parâmetros, para interpretar e comparar suas participações e predominância na região com maior facilidade. | 3 |
+| 12 | Media |Como analista, quero agrupar informações relevantes de meu interesse sobre cada setor econômico analisado através de elementos filtragem para facilitar a tomada de decisões futuras em relação ao desenvolvimento tecnológico e econômico de São José dos Campos | 3 |
+| 14 | Baixa |Como analista, quero poder acessar os dados e documentações utilizados de forma organizada, para consultar e compreender as informações utilizadas nas análises. | 3 |
 
 
 ---
